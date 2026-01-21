@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this dataset in your research, please cite it as below."
+title: "A Synthetic, Clinically Inspired Neonatal Dataset for Multi-Class Disease Prediction and Trust-Aware Machine Learning"
+type: dataset
+authors:
+  - family-names: Makwana
+    given-names: Sanjay
+    orcid: https://orcid.org/0009-0005-1584-6257
+    affiliation: Indus University, Gujarat, India
+  - family-names: Mahajan
+    given-names: Seema
+    affiliation: Indus University, Gujarat, India
+doi: 10.5281/zenodo.18329706
+repository-code: https://github.com/sunnymac/synthetic-neonatal-dataset
+license: CC-BY-4.0
