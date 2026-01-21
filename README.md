@@ -130,7 +130,7 @@ The dataset is designed to encourage **open and reproducible research** while ma
 ## Citation
 If you use this dataset in your research, please cite it as:
 
-> Makwana, S., & Mahajan, S. (2026). *A Synthetic, Clinically Inspired Neonatal Dataset for Multi-Class Disease Prediction and Trust-Aware Machine Learning*. Zenodo. https://doi.org/10.5281/zenodo.18234460
+> Makwana, S., & Mahajan, S. (2026). *A Synthetic, Clinically Inspired Neonatal Dataset for Multi-Class Disease Prediction and Trust-Aware Machine Learning*. Zenodo. https://doi.org/10.5281/zenodo.18329706
 
 
 
